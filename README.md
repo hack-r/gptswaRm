@@ -7,7 +7,6 @@
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 📝 Introduction
@@ -66,17 +65,6 @@ Multiple AI Instances: Create and manage multiple OpenAI API instances.
 Interactive Session: Engage in an interactive session with the AI.
 Web Search Integration: Perform web searches using SerpAPI and synthesize the results.
 Error Handling: Robust error handling and retry mechanisms for API rate limits.
-
-## 🧩 Contributing
-
-We welcome contributions! Please follow these steps:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
 
 ## 📜 License
 
