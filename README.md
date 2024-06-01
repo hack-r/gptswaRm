@@ -42,9 +42,11 @@ dotenv::load_dotenv()
 
 Install the required R packages:
 
+```r
 if (!require(pacman)) { install.packages("pacman"); library(pacman) }
 pacman::p_load(openai, httr, jsonlite, future, future.apply)
 Source the script or run it interactively in your R environment:
+```
 
 Run it interactively in your R IDE. If you want to run it as a headless script, you'll want to cut this out first:
 
